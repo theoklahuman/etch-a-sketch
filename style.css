@@ -1,0 +1,9 @@
+#container {
+    display: flex;
+    background-color: magenta;
+    flex-wrap: wrap;
+    max-width: 320px;
+    max-height: 320px;
+    margin: auto;
+
+}
